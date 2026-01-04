@@ -11,3 +11,10 @@ Unsupervised learning uses the K-Means clustering method to group employees base
 
 ## Conclusion
 Overall, this project shows that the application of machine learning can help in understanding employee data. Supervised learning functions to make predictions, while unsupervised learning functions to find hidden patterns and segmentation in the data. These two applications complement each other and provide insight into employee attrition analysis.
+
+## Tools & Library
+- Python
+- Pandas
+- Numpy
+- Matplotlib
+- Scikit-learn
